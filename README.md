@@ -1,4 +1,4 @@
-Android Sliding Up Panel
+Android Sliding Up Panel - MUSTAFA GÜVEN REVIZE
 =========================
 
 This library provides a simple way to add a draggable sliding up panel (popularized by Google Music, Google Maps and Rdio) to your Android application. Umano Team <3 Open Source.
