@@ -1,8 +1,17 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.0.+'
+    }
+}
+
 apply plugin: 'android'
 
 android {
   compileSdkVersion 19
-  buildToolsVersion "19.0.3"
+  buildToolsVersion "19.1.0"
 
   lintOptions {
     abortOnError false
